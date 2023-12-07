@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Atualmento estou estudando desenvolvimento android nativo com kotlin & java
+ Atualmente estou estudando desenvolvimento android nativo com kotlin & java
 </p>
 
 <p align="left">
