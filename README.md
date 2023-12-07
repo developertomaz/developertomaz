@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Android Studio | .**
+  💼 Ferramentas: **Android Studio | GitHub | .**
 </p>
 
 <p align="left">
