@@ -5,7 +5,7 @@
 <img src="https://github.com/developertomaz/imgens/blob/main/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Atualmente estou estudando desenvolvimento android nativo com kotlin & java
+Desenvolvimento android nativo com kotlin & java
 </p>
 
 <p align="left">
