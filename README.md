@@ -18,7 +18,6 @@ Desenvolvimento android nativo com kotlin & java
 
 <p align="left">
   💌 Meus contatos: ⤵️
- tomazedewreck@gmail.com
 </p>
 
 <br>
@@ -31,3 +30,7 @@ Desenvolvimento android nativo com kotlin & java
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
 
 </p>
+  <a
+    href="https://www.mozilla.org/pt-BR/"
+    title="O melhor lugar para encontrar mais informações sobre a missão da Mozilla e como contribuir">
+    a página inicial da Mozilla</a
