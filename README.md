@@ -18,6 +18,7 @@ Desenvolvimento android nativo com kotlin & java
 
 <p align="left">
   💌 Meus contatos: ⤵️
+ tomazedewreck@gmail.com
 </p>
 
 <br>
