@@ -9,11 +9,11 @@ Desenvolvimento android nativo com kotlin & java
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Koltin | Java**
+   Linguagens: **Koltin | Java**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Android Studio | GitHub | .**
+   Ferramentas: **Android Studio | GitHub | .**
 </p>
 
 <p align="left">
