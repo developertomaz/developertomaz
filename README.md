@@ -15,7 +15,7 @@ Desenvolvimento android nativo com kotlin & java
 </p>
 
 <p align="left">
-  💌 Meus contatos: ⤵️
+   Meus contatos: ⤵️
 </p>
 
 <br>
